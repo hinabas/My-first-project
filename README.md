@@ -14,8 +14,6 @@ This project involves simulating and analyzing social media data using Python. T
 - [Usage](#usage)
 - [Project Tasks](#project-tasks)
 - [Conclusion](#conclusion)
-- [License](#license)
-
 ## Installation
 
 To get started with the project, ensure you have Python installed on your system. Then, install the required libraries by running the following command:
@@ -147,8 +145,6 @@ This project highlights my ability to work with data, clean it, visualize it, an
 - Suggestions for future improvements.
 ```
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
